@@ -20,7 +20,7 @@
   ],
   "dependencies": {
     "bson": "~1.0.4",
-    "require_optional": "git@github.com:machinomy/require_optional.git"
+    "require_optional": "https://github.com/machinomy/require_optional/archive/V1.0.10001.tar.gz"
   },
   "devDependencies": {
     "chai": "^4.1.2",
