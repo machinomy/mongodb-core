@@ -20,7 +20,7 @@
   ],
   "dependencies": {
     "bson": "~1.0.4",
-    "require_optional": "^1.0.1"
+    "require_optional": "git@github.com:machinomy/require_optional.git"
   },
   "devDependencies": {
     "chai": "^4.1.2",
