@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "bson": "~1.0.4",
-    "require_optional": "https://github.com/machinomy/require_optional/archive/V1.0.10001.tar.gz"
+    "require_optional": "https://github.com/machinomy/require_optional/archive/V1.0.10002.tar.gz"
   },
   "devDependencies": {
     "request": "2.65.0",
